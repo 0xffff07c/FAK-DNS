@@ -1642,7 +1642,6 @@ https://debian.597120.xyz:2087/16e6ef62-8494-4a35-9bb5-b63ed2aa7aac
 [/148com.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/148la.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/14944.net/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/1495c8.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/14hj.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/14play.net/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/14xd.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -6664,7 +6663,6 @@ https://debian.597120.xyz:2087/16e6ef62-8494-4a35-9bb5-b63ed2aa7aac
 [/62669.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/626x.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/628.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/628536nyv.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/62923.vip/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/629973.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/62dns.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -11833,7 +11831,6 @@ https://debian.597120.xyz:2087/16e6ef62-8494-4a35-9bb5-b63ed2aa7aac
 [/antvr.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/antwork.link/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/antzk.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/anviettek.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/anw.red/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/anweilan.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/anweishi.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -53555,6 +53552,7 @@ https://debian.597120.xyz:2087/16e6ef62-8494-4a35-9bb5-b63ed2aa7aac
 [/jamalube.net/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jamcz.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jamidol.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
+[/jamms.org/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jammyfm.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jampotgames.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/janbao.net/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -56761,7 +56759,6 @@ https://debian.597120.xyz:2087/16e6ef62-8494-4a35-9bb5-b63ed2aa7aac
 [/js96008.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/js96777.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jsadkg.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/jsadt.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jsaeit.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jsaes.com/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jsafc.net/]quic://47320.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
